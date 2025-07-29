@@ -1,6 +1,9 @@
 torch
-torchvision
-torchaudio
+datasets
+transformers
+peft
+evaluate
+accelerate
 datasets
 transformers
 peft
